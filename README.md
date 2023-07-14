@@ -1,6 +1,6 @@
 # 100 Days of JavaScript
 
-100 Days of Javascript
+100 Days of Javascript (Obviously not consecutive.)
 
 ## 🛠 Days
 
